@@ -1,4 +1,4 @@
-module github.com/empijei/def-prog-exercises
+module brian
 
 go 1.23.1
 
